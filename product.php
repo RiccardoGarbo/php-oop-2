@@ -4,13 +4,13 @@
    public $name;
    public $image;
    public $price;
-   public $category;
+   
 
-   public function __construct($name, $image, $price, $category) {
+   public function __construct($name, $image, $price) {
        $this->name = $name;
        $this->image = $image;
        $this->price = $price;
-       $this->category = $category;
+       
    }
 }
 
