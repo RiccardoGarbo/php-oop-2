@@ -15,4 +15,4 @@ $birdToy = new AnimalToy (' Scala per uccelli' , 'https://img.kwcdn.com/product/
 
 
 
- $animalsToy = [$dogToy, $catToy,$fishToy,$birdToy];
+ $animalsToy = [$dogToy, $catToy,$fishToy,$birdToy]; 
